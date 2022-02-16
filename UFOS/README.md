@@ -23,4 +23,5 @@ Search by Date:
 
 
 ## Summary
-This webpage works as intended however one thing I would like to change is how you view the information. if I had enough time I would see if I could add links to the comments/ results of the search for a more in depth description of the sightings. How cool would that be! Furthermore if there were images to further back up those sightings I think the website would be more dynamic and engaging. 
+This webpage works as intended however one thing I would like to change is how you view the information. if I had enough time I would see if I could add links to the comments/ results of the search for a more in depth description of the sightings. How cool would that be! Furthermore if there were images to further back up those sightings I think the website would be more dynamic and engaging. The last thing I would inevitably change would be how we could search for results. Im sure there is a way that regardless of capitalization the results could be found. Right now it is case sensitive so typing VA for Virginia would not return any results. That goes for the same in all of the filters/fields. They are all specific. So changing to account for a easier less confusing user expirience.
+
